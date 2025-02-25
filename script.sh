@@ -9,3 +9,4 @@ wget "https://www.tooplate.com/download/2135_mini_finance.zip"
 unzip 2135_mini-finance
 cp ./* /var/www/html/
 echo "Hello world from $(hostname -f)" > /var/www/html/index.html
+echo "Hello world from $(hostname -f)" > /var/www/html/index.html
